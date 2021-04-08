@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello Jenkins User! This is my first change"
 
-echo "Second Change!"
+echo "The Second Change!"
